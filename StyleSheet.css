@@ -1,0 +1,23 @@
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+  
+  th {
+    padding: .2em;
+  }
+  
+  td {
+    padding-left: .5em;
+    padding-right: .5em;
+    border: 1px solid #900;
+  }
+  
+  #trHeader {
+    text-decoration: underline;
+  }
+  
+  .centerCell {
+    text-align: center;
+  }
